@@ -111,7 +111,7 @@ footer h3{
     margin-bottom: 0;
 }
 /* screen size 500px and up */
-@media(min-width:375px){
+@media(min-width:500px){
     #landing{
         display: flex;
         display: 100%;
